@@ -1,0 +1,16 @@
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'MANITHA GOWDA@DESKTOP-6B70FKC.(none)')
+
+C:\Users\MANITHA GOWDA\maani>git config --global user.email "manithamaanu@gmail.com"
+
+C:\Users\MANITHA GOWDA\maani>git commit -m "added one file"
+[master (root-commit) 73cd814] added one file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 maani.txt
+
+C:\Users\MANITHA GOWDA\maani>
+
+
